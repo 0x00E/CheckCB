@@ -1,0 +1,7 @@
+name: CheckCB
+version: 1.0
+author: qianniancc
+main: com.github.qianniancc.CheckCB
+commands:
+  checkcb:
+  ccbreload:
